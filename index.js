@@ -1,3 +1,4 @@
+
 const apiKey = "aollIRdSdbmA14pSPOt02vx4L4QWO53w";
 const apiUrl = 'https://url-link-shortener.p.rapidapi.com/v1/links/new';
 const formInput = document.querySelector("#form-input");
